@@ -52,8 +52,11 @@ _Starting with the team, there must first be someone responsible for coordinatin
  _5. Test_<br/>
  _6. Deployment_
 
+
 - How do you think an entity relationship diagram for _Instagram_ would be like?
+
 ![Schema Instagram](https://github.com/robertosoares94/oplab-challenge/blob/master/Backend/schema.png)
+
 
 - Now that you have imagined the ER diagram, **how** would you build _Instagram_ from scratch?
 
