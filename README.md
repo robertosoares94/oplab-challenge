@@ -45,11 +45,11 @@ _Starting with the team, there must first be someone responsible for coordinatin
 
  _Below is the development process, in the order in which it must occur in order to have a satisfactory delivery:_
 
- _1. Planning_
- _2. Requirements analysis_
- _3. Software design and prototyping_
- _4. Programming_
- _5. Test_
+ _1. Planning_<br/>
+ _2. Requirements analysis_<br/>
+ _3. Software design and prototyping_<br/>
+ _4. Programming_<br/>
+ _5. Test_<br/>
  _6. Deployment_
 
 - How do you think an entity relationship diagram for _Instagram_ would be like?
