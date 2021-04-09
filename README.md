@@ -39,7 +39,7 @@ _I know, I know... It looks easy compared to the frontend challenge; but don't b
 Answer the following questions:
 - Suppose you're working with 3 people on a project. What would be **the** ideal software development process?
 
-_Starting with the team, there must first be someone responsible for coordinating the team's operations.
+*Starting with the team, there must first be someone responsible for coordinating the team's operations.
 
  As for the process, follow agile methodologies like Scrum and Kanban.
 
@@ -55,10 +55,10 @@ _Starting with the team, there must first be someone responsible for coordinatin
 
  5. Test
 
- 6. Deployment_
+ 6. Deployment*
 
 - How do you think an entity relationship diagram for _Instagram_ would be like?
-![Schema Instagram](https://github.com/robertosoares94/oplab-challenge/Backend/schema.png)
+![Schema Instagram](https://github.com/robertosoares94/oplab-challenge/blob/master/Backend/schema.png)
 
 - Now that you have imagined the ER diagram, **how** would you build _Instagram_ from scratch?
 
