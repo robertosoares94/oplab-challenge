@@ -29,15 +29,40 @@ _We will be evaluating everything, from reproduction accuracy, to process. If yo
 
 Reproduce, faithfully, this [page]( http://ydirection.com/Aria/index-3.html ).
 
+* cd Frontend
+* yarn start
+
 ### Backend
 
 _I know, I know... It looks easy compared to the frontend challenge; but don't be fooled! We expect **more** from your answers in here! We will evaluate **how** you answer, and your answer's organization and structure!_
 
 Answer the following questions:
 - Suppose you're working with 3 people on a project. What would be **the** ideal software development process?
+
+_Starting with the team, there must first be someone responsible for coordinating the team's operations.
+
+ As for the process, follow agile methodologies like Scrum and Kanban.
+
+ Below is the development process, in the order in which it must occur in order to have a satisfactory delivery:
+
+ 1. Planning
+
+ 2. Requirements analysis
+
+ 3. Software design and prototyping
+
+ 4. Programming
+
+ 5. Test
+
+ 6. Deployment_
+
 - How do you think an entity relationship diagram for _Instagram_ would be like?
+![Schema Instagram](https://github.com/robertosoares94/oplab-challenge/Backend/schema.png)
+
 - Now that you have imagined the ER diagram, **how** would you build _Instagram_ from scratch?
 
+_It would start with the main idea of ​​Intagram, which would be the possibility of sending photos with some filters, developing the MVP (Minimum Viable Product), taking into account little budget, time and staff, and then building the other features, it may be that with the market using the perceptions about the project changes, and with that it undergoes changes, something normal in the world of projects, but would focus on tools, frameworks and methodologies, in terms of development, develop an APP for the MVP, using more current technologies, the back end serving as an api, it would use design patterns to make it well structured, and thus lessen problems with the growth of the project._
 
 That's it! Thanks for doing this test!
 
