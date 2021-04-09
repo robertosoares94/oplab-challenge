@@ -39,23 +39,18 @@ _I know, I know... It looks easy compared to the frontend challenge; but don't b
 Answer the following questions:
 - Suppose you're working with 3 people on a project. What would be **the** ideal software development process?
 
-*Starting with the team, there must first be someone responsible for coordinating the team's operations.
+_Starting with the team, there must first be someone responsible for coordinating the team's operations._
 
- As for the process, follow agile methodologies like Scrum and Kanban.
+ _As for the process, follow agile methodologies like Scrum and Kanban._
 
- Below is the development process, in the order in which it must occur in order to have a satisfactory delivery:
+ _Below is the development process, in the order in which it must occur in order to have a satisfactory delivery:_
 
- 1. Planning
-
- 2. Requirements analysis
-
- 3. Software design and prototyping
-
- 4. Programming
-
- 5. Test
-
- 6. Deployment*
+ _1. Planning_
+ _2. Requirements analysis_
+ _3. Software design and prototyping_
+ _4. Programming_
+ _5. Test_
+ _6. Deployment_
 
 - How do you think an entity relationship diagram for _Instagram_ would be like?
 ![Schema Instagram](https://github.com/robertosoares94/oplab-challenge/blob/master/Backend/schema.png)
